@@ -63,3 +63,4 @@ class ActionDragonCore(val state: String, val remove: Boolean, val transferTime:
         }
     }
 }
+
